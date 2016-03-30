@@ -16,7 +16,7 @@ v20151103:
 修改	printPaper方法
 新增	setContent方法：构造打印内容格式
 注意事项：图片内容指file_get_contents获得的内容
-		      图片生成bmp前先灰度处理
+图片生成bmp前先灰度处理
 
 v20151030:
 开发接口的基本封装
