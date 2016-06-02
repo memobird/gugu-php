@@ -8,8 +8,10 @@ class memobird{
 	);
 
 
-	function __construct(){
-		//$this->ak = $ak;
+	function __construct($ak){
+		if($ak){
+			$this->ak = $ak;
+		}
 		date_default_timezone_set('PRC'); 
 	}
 
