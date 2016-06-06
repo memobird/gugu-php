@@ -7,6 +7,8 @@ php源代码由@小明同学提供，在此对他表示感谢！
 
 想跟其他开发者一起玩耍咕咕机，可以加入咕咕开发者官方QQ群 41965804
 
+还有一个PHP的源码由开发者 atans（咕咕号837516）贡献，在此对他表示感谢！Github 项目网址： https://github.com/atans/memobird
+
 memobird.php	memobird开发接接口方法操作类
 image.php	图片处理类 
 
