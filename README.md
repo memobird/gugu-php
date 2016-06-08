@@ -1,7 +1,5 @@
-# gugu-php
+# MEMOBIRD-php
 基于PHP的咕咕机API开源项目
-
-php源代码由@小明同学提供，在此对他表示感谢！
 
 官方开发文档请前往open.memobird.cn下载
 
@@ -12,13 +10,15 @@ php源代码由@小明同学提供，在此对他表示感谢！
 memobird.php	memobird开发接接口方法操作类
 image.php	图片处理类 
 
-更改日志：
+更新日志：
+v20160603：
+修改  图片处理类
+新增  类似APP中旋转处理图片的方法
+
 v20151103:
 新增	图片处理类
 修改	printPaper方法
 新增	setContent方法：构造打印内容格式
-注意事项：图片内容指file_get_contents获得的内容
-图片生成bmp前先灰度处理
 
 v20151030:
 开发接口的基本封装
